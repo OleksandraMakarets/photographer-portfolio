@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(205, 164, 111);
+}
+main{
+    background-color: aquamarine;
+}
+footer{
+    background-color: cadetblue;
+}
